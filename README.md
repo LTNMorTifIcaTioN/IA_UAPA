@@ -1,3 +1,5 @@
+TÉCNICAS DE INTELIGÊNCIA ARTIFICIAL
+
 Imagine um parente seu, cardíaco, contando em uma festa de fim de ano que baixou um aplicativo em seu celular, o qual identifica momentos em que a arritmia — condição crônica desse parente — está atingindo níveis fora do padrão. Ele demonstra para você o tal aplicativo colocando o dedo sobre o flash do aparelho (que liga automaticamente quando o aplicativo é inicializado), e em poucos segundos o diagnóstico aparece na tela. 
 
 Ele explica que a câmera capta as variações de cor quando o dedo pulsa, um efeito amplificado pelo flash, e que o aplicativo trabalha com inteligência artificial. Você ficaria tranquilo e sentiria que seu parente está tendo um bom atendimento quanto à sua arritmia? Ou rapidamente diria a ele que não deve se medicar ou adotar condutas com base em um software para smartphone? 
@@ -21,20 +23,19 @@ Ao fim desta disciplina, você deverá ser capaz de:
 identificar como as Redes Neurais estão revolucionando a Inteligência Artificial;
 analisar conceitos, fundamentos e propósitos da Inteligência Artificial;
 discutir sobre os principais conceitos relacionados à Lógica Nebulosa.
-
-TÉCNICAS DE INTELIGÊNCIA ARTIFICIAL
- www.ampli.com.br
- contato@ampli.com.br
+ 
 Ementa:
-Técnicas da Inteligencia Artificial Fraca
-Técnicas da Inteligência Artificial Geral
-Técnicas da Superinteligência
-Integração da IA
+Técnicas da Inteligencia Artificial Fraca;
+Técnicas da Inteligência Artificial Geral;
+Técnicas da Superinteligência;
+Integração da IA;
+
 Competência:
 Compreender as técnicas da inteligência artificial limita (IA fraca).
 Compreender as técnicas da inteligência artificial geral (AGI).
 Compreender as técnicas da Superinteligência (ASI).
 Compreender a potencialidade de integração da IA com outras tecnologias.
+
 Bibliografia Básica:
 Coppin, Ben. Inteligência artificial. Rio de Janeiro : LTC, 2013.
 EEE Transactions on Software Engineering ISSN 1939-3520?
